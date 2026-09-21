@@ -12,3 +12,7 @@
 尺寸配比保持4×4 km 8题、8×8 km 24题、100×100 km 8题。当前交付是题库，尚未实际生图或生成场景。
 
 由GitHub Pages发布，入口为独立运行的 `index.html`，无外部运行依赖。
+
+## 历史版本
+
+[合并前的 image2 / text2 题库](https://yuzi-huang.github.io/world-pcg-questionbank/legacy.html#image)：v2.0（2026-09-20），image2、text2 各20题；题面与公共要求按原版保留。image2 为待配参考图的题面，text2 为直接文字生成，两者独立于当前两步流程。
